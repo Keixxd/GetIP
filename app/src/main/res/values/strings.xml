@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetIP</string>
+    <string name="ip_hardcode">Your ip will display here</string>
+    <string name="get_ip">Get ip</string>
+</resources>
